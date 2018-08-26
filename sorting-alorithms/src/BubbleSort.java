@@ -13,7 +13,7 @@ public class BubbleSort {
     public static void main(String[] args) {
 
         int[] a = {23,12,1,2,3,24,54,126,76};
-        System.out.println("in descending Order");
+        System.out.println("in ascending Order");
         sortInAscedning(a);
         System.out.println(Arrays.toString(a));
         sortInDescending(a);

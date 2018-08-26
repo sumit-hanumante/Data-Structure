@@ -14,7 +14,7 @@ public class BubbleSort {
 
         int[] a = {23,12,1,2,3,24,54,126,76};
         System.out.println("in ascending Order");
-        sortInAscedning(a);
+        sortInAscending(a);
         System.out.println(Arrays.toString(a));
         sortInDescending(a);
         System.out.println("in descending Order");
@@ -27,7 +27,7 @@ public class BubbleSort {
         arr[j] = temp;
     }
 
-     private static void sortInAscedning(int arr[]){
+     private static void sortInAscending(int arr[]){
 
          boolean isSorted = false;
          int lastSortedIndex = arr.length-1;

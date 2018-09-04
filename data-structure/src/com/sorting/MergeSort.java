@@ -1,4 +1,4 @@
-package src.com.sortingAlgorithims;
+package src.com.sorting;
 
 /**
  * Created by sumit on 9/3/2018.
